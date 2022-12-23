@@ -4,8 +4,6 @@ date: 2022-12-23T10:34:09Z
 ShowToc: true
 ---
 
-![Photo by Florian Olivo on Unsplash](https://source.unsplash.com/4hbJ-eymZ1o/w=600)
-
 > TL;DR: Mencoba kembali menggunakan Hugo, dan alasannya
 
 <!--more-->
