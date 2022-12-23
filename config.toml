@@ -1,11 +1,11 @@
 baseURL = "https://www.manoedinata.my.id/"
-languageCode = "en-us"
+languageCode = "id-ID"
 title = "Hendra Manudinata"
 theme = "PaperMod"
 
 [params.homeInfoParams]
-title = "Hai, Saya Hendra Manudinata... 👋"
-content = "... dan selamat datang di website sederhana saya!"
+title = "Sugeng Rawuh... Kula Hendra 🙏"
+content = "Selamat datang di website saya!"
 
 [[params.socialIcons]]
 name = "GitHub"
