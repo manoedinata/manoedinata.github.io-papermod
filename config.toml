@@ -18,3 +18,7 @@ url = "https://instagram.com/manoedinata"
 [[params.socialIcons]]
 name = "Telegram"
 url = "https://t.me/manoedinata"
+
+[[params.socialIcons]]
+name = "Email"
+url = "mailto:manoedinata@gmail.com"
