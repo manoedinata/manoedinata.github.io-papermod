@@ -25,7 +25,7 @@ Ini merupakan alasan utama kenapa saya pindah hati ke Hugo. Andai saja Jekyll pu
 
 # Alasan #2: Cepat
 
-Hugo termasuk dalam *framework* SSG (*Static Site Generator*) tercepat di dunia. Ketika postingan ini sedang diketik, Hugo melaporkan bahwa proses *build* situs pada mode pengembangan (`hugo server`) memakan waktu **32** dan proses *rebuild* situs hanya memakan waktu **2ms**. *Miliseconds* loh, *cah*. *Edan!*
+Hugo termasuk dalam *framework* SSG (*Static Site Generator*) tercepat di dunia. Ketika postingan ini sedang diketik, Hugo melaporkan bahwa proses *build* situs pada mode pengembangan (`hugo server`) memakan waktu **32ms** dan proses *rebuild* situs hanya memakan waktu **2ms**. *Miliseconds* loh, *cah*. *Edan!*
 
 ![Kecepatan Build Site Hugo](https://i.postimg.cc/QCX8tr5Q/image.png)
 
