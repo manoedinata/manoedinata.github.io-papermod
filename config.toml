@@ -5,6 +5,7 @@ theme = "PaperMod"
 
 [params]
 comments = "true"
+ShowToc = "true"
 
 [params.homeInfoParams]
 title = "Sugeng Rawuh... Kula Hendra 🙏"

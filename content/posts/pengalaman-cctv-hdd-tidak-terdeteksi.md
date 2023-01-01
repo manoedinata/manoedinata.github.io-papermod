@@ -1,7 +1,6 @@
 ---
 title: "Pengalaman Memperbaiki CCTV Yang Tidak Mendeteksi HDD"
 date: 2022-12-31
-ShowToc: true
 ---
 
 > Pengalaman panjang memperbaiki DVR CCTV... dan ternyata diluar ekspektasi!

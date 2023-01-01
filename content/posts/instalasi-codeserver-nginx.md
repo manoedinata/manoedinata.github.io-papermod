@@ -1,7 +1,6 @@
 ---
 title: "Instalasi code-server, VS Code Versi Web"
 date: 2023-01-01
-ShowToc: true
 ---
 
 > Tutorial singkat instalasi code-sever beserta konfigurasi NGINX

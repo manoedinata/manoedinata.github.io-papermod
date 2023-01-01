@@ -1,7 +1,6 @@
 ---
 title: "Migrasi Website Yang Kesekian Kalinya..."
 date: 2022-12-23
-ShowToc: true
 ---
 
 > TL;DR: Mencoba kembali menggunakan Hugo, dan alasannya
