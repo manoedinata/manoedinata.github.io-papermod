@@ -2,6 +2,7 @@ baseURL = "https://manoe.my.id/"
 languageCode = "id-ID"
 title = "Hendra Manudinata"
 theme = "PaperMod"
+disqusShortname = "manoedinata"
 
 [params]
 comments = "true"
