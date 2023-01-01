@@ -3,6 +3,9 @@ languageCode = "id-ID"
 title = "Hendra Manudinata"
 theme = "PaperMod"
 
+[params]
+comments = "true"
+
 [params.homeInfoParams]
 title = "Sugeng Rawuh... Kula Hendra 🙏"
 content = "Selamat datang di website saya!"
