@@ -17,8 +17,13 @@ imageWidth = 160
 imageHeight = 160
 
   [[params.profileMode.buttons]]
+  name = "Project"
+  url = "/project/"
+
+  [[params.profileMode.buttons]]
   name = "Postingan (Blog)"
   url = "/posts/"
+
 
 [[params.socialIcons]]
 name = "GitHub"
