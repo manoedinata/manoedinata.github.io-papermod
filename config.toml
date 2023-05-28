@@ -18,11 +18,11 @@ imageHeight = 160
 
   [[params.profileMode.buttons]]
   name = "Project"
-  url = "/project/"
+  url = "https://blog.manoedinata.me/category/projek/"
 
   [[params.profileMode.buttons]]
   name = "Postingan (Blog)"
-  url = "/posts/"
+  url = "https://blog.manoedinata.me"
 
 
 [[params.socialIcons]]
