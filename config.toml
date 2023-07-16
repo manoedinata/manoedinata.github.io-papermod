@@ -18,7 +18,7 @@ imageHeight = 160
 
   [[params.profileMode.buttons]]
   name = "Project"
-  url = "/project/"
+  url = "/projects/"
 
   [[params.profileMode.buttons]]
   name = "Postingan (Blog)"
