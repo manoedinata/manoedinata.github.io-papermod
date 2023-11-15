@@ -1,0 +1,29 @@
+baseURL: 'https://manoedinata.me'
+languageCode: id-ID
+title: Hendra Manudinata
+theme: PaperMod
+disqusShortname: manoedinata
+params:
+  comments: 'true'
+  ShowToc: 'true'
+  profileMode:
+    enabled: true
+    title: Hendra Manudinata
+    subtitle: Just an ordinary 'hooman'
+    imageUrl: 'https://avatars.githubusercontent.com/u/116422610'
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: Project
+        url: /projects/
+      - name: Postingan (Blog)
+        url: /posts/
+  socialIcons:
+    - name: GitHub
+      url: 'https://github.com/manoedinata'
+    - name: Instagram
+      url: 'https://instagram.com/manoedinata'
+    - name: Telegram
+      url: 'https://t.me/manoedinata'
+    - name: Email
+      url: 'mailto:manoedinata@gmail.com'
