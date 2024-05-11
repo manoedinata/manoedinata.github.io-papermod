@@ -1,36 +1,28 @@
-baseURL: 'https://mdinata.my.id'
-languageCode: id-ID
-title: Hendra Manudinata
-theme: PaperMod
-disqusShortname: manoedinata
+baseURL: "https://mdinata.my.id"
+languageCode: "en-US"
+title: "Hendra Manudinata"
+theme: ["PaperMod"]
+disqusShortname: "manoedinata"
 params:
-  comments: 'true'
-  ShowToc: 'true'
+  comments: "true"
+  ShowToc: "true"
   ShowBreadCrumbs: true
-  homeInfoParams:
-    Title: 'Sugeng Rawuh! 👋'
-    Content: |
-      Aku **Hendra Manudinata**, seorang remaja yang sangat suka dengan
-      pemrograman.
-
-      Disinilah tempatku berbagi pengalamanku, melalui sebuah _blog_
-      sederhana dengan tujuan untuk mengekspresikan apa yang baru ku pelajari
-      sekaligus berbagi ilmu. 📚
+  profileMode:
+    enabled: true
+    title: "Hendra Manudinata"
+    subtitle: "Just an ordinary 'hooman'"
+    imageUrl: "https://avatars.githubusercontent.com/u/116422610"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: "Blog (Medium)"
+        url: "https://medium.com/@manoedinata"
   socialIcons:
-    - name: GitHub
-      url: 'https://github.com/manoedinata'
-    - name: Instagram
-      url: 'https://instagram.com/manoedinata'
-    - name: Telegram
-      url: 'https://t.me/manoedinata'
-    - name: Email
-      url: 'mailto:manoedinata@gmail.com'
-
-menu:
-    main:
-        - name: Arsip
-          url: arsip/
-          weight: 5
-        - name: Pencarian
-          url: cari/
-          weight: 10
+    - name: "GitHub"
+      url: "https://github.com/manoedinata"
+    - name: "Instagram"
+      url: "https://instagram.com/manoedinata"
+    - name: "Telegram"
+      url: "https://t.me/manoedinata"
+    - name: "Email"
+      url: "mailto:manoedinata@gmail.com"
