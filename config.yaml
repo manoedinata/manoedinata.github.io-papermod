@@ -2,11 +2,7 @@ baseURL: "https://mdinata.my.id"
 languageCode: "en-US"
 title: "Hendra Manudinata"
 theme: ["PaperMod"]
-disqusShortname: "manoedinata"
 params:
-  comments: "true"
-  ShowToc: "true"
-  ShowBreadCrumbs: true
   profileMode:
     enabled: true
     title: "Hendra Manudinata"
@@ -15,9 +11,9 @@ params:
     imageWidth: 160
     imageHeight: 160
     buttons:
-      - name: "Blog (WordPress)"
+      - name: "WordPress"
         url: "https://manoedinata.wordpress.com"
-      - name: "Blog (Medium)"
+      - name: "Medium"
         url: "https://medium.com/@manoedinata"
   socialIcons:
     - name: "GitHub"
