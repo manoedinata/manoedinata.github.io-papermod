@@ -15,6 +15,8 @@ params:
     imageWidth: 160
     imageHeight: 160
     buttons:
+      - name: "Blog (WordPress)"
+        url: "https://manoedinata.wordpress.com"
       - name: "Blog (Medium)"
         url: "https://medium.com/@manoedinata"
   socialIcons:
